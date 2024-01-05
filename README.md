@@ -20,5 +20,5 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 ### Type system
 - Primitive (number, string, boolean, symbol, null, undefined, void)
 - Object (functions, classes, arrays, objects)
-- Type Annotations (type 'any', declaration without variable initialization, | )
+- Type Annotations (type 'any', declaration without variable initialization, | , destructuring then annotation)
 - Type Inference (declaration with variable initialization)
