@@ -9,7 +9,7 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 1. Install typeScript (g)
 > npm install-g typescript ts node
 2. Install npm
-> npm init 
+> npm init -y
 3. Install axios
 > npm install axios
 4. Create file index.ts => get response data => start TypeScript (create index.js auto);
