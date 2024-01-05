@@ -4,7 +4,7 @@
 ### Introduction
 - Documentation [link](https://www.typescriptlang.org/docs/)
 
-#####Create first application:
+#### Create first application:
 Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{JSON} Placeholder</a>
 1. Install typeScript (g)
 > npm install-g typescript ts node
