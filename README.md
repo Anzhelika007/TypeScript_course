@@ -35,6 +35,11 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 - Create interface
 - Use interfase for several objects
 
+### Classes
+- Create class
+- Extends class
+- Public, prived, protected
+- Сlass fields, constructor
 
 
 
