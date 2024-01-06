@@ -31,6 +31,9 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 - Annotations tuples
 - Alias for tuples
 
+### Interface
+- Create interface
+- Use interfase for several objects
 
 
 
