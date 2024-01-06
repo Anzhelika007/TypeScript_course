@@ -17,3 +17,6 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 5. Joint launch js+ts
 > ts-node index.ts
   
+#### Typed arrays
+- annotations array, matrix
+- methods arrays, flexible types
