@@ -22,3 +22,16 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 - Object (functions, classes, arrays, objects)
 - Type Annotations (type 'any', declaration without variable initialization, | , destructuring then annotation)
 - Type Inference (declaration with variable initialization)
+
+#### Typed arrays
+- annotations array, matrix
+- methods arrays, flexible types
+
+
+
+
+
+
+
+
+
