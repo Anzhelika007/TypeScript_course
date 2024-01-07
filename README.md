@@ -41,6 +41,15 @@ Get data <a href="https://jsonplaceholder.typicode.com/todos" target="_blank">{J
 - Public, prived, protected
 - Сlass fields, constructor
 
+### Design Patterns
+#### Maps app
+1. Launch TypeScript in browser 
+`npm install -g parcel-bundler`
+2. Add index.html => <script src="./src/index.ts"></script> => started built (http://localhost:1234/)
+`parcel index.html`
+
+
+
 
 
 
